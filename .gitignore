@@ -1,0 +1,27 @@
+    # Virtual Environment
+venv/
+ENV/
+env/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Output folder (generated files)
+output/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
